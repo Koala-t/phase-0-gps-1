@@ -1,3 +1,3 @@
 **bold**
 *italics*
-```<h1>Heading</h1>```
+Conflict ```<h1>Heading</h1>```
